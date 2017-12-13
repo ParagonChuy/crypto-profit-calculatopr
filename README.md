@@ -1,1 +1,1 @@
-# crypto-profit-calculatopr
+# crypto-profit-calculator
