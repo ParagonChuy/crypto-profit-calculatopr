@@ -1,0 +1,26 @@
+{
+  "name": "crypto-profit-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParagonChuy/crypto-profit-calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParagonChuy/crypto-profit-calculator/issues"
+  },
+  "homepage": "https://github.com/ParagonChuy/crypto-profit-calculator#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "dependencies": {
+    "console.table": "^0.9.1",
+    "readline-sync": "^1.4.7"
+  }
+}
